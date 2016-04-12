@@ -10,7 +10,7 @@ Info, db Parse.com.
 
 <tr>
 
-<th>Login <br><img src="assets/screenshots/AutoTimeHelper.png" width="100%">
+<th>Login <br><img src="assets/screenshots/AutoTimeHelper.jpg" width="100%">
 </th>
 
 </tr>
